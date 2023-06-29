@@ -32,7 +32,7 @@ git checkout HEAD -- release || true
 cp -r ../dist/* .
 
 mkdir .circleci
-wget https://raw.githubusercontent.com/adamws/keyboard-tools/master/.circleci/ghpages-config.yml -O .circleci/config.yml
+wget https://raw.githubusercontent.com/luis-godinez/keyboard-tools/master/.circleci/ghpages-config.yml -O .circleci/config.yml
 touch .nojekyll
 
 echo "==> Start deploying"
