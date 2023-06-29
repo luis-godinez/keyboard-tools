@@ -2,7 +2,7 @@
 import { ref } from "vue";
 
 const matrixOptions = ["Automatic", "Predefined"];
-const switchFootprintOptions = ["MX", "Alps", "MX/Alps Hybrid"];
+const switchFootprintOptions = ["MX", "MX Hotswap", "Alps", "MX/Alps Hybrid"];
 const routingOptions = ["Disabled", "Full"];
 const controllerCircuitOptions = ["None", "ATmega32U4"];
 

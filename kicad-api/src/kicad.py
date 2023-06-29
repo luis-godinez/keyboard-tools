@@ -31,6 +31,7 @@ def prepare_project(project_full_path, project_name, switch_library):
                 f'(lib (name Switch_Keyboard_Cherry_MX)(type KiCad)(uri {prefix}/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr ""))',
                 f'(lib (name Switch_Keyboard_Alps_Matias)(type KiCad)(uri {prefix}/Switch_Keyboard_Alps_Matias.pretty)(options "")(descr ""))',
                 f'(lib (name Switch_Keyboard_Hybrid)(type KiCad)(uri {prefix}/Switch_Keyboard_Hybrid.pretty)(options "")(descr ""))',
+                f'(lib (name Switch_Keyboard_Hotswap_Kailh)(type KiCad)(uri {prefix}/Switch_Keyboard_Hotswap_Kailh.pretty)(options "")(descr ""))',
                 f'(lib (name Mounting_Keyboard_Stabilizer)(type KiCad)(uri {prefix}/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))',
             ]
         )
